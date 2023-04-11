@@ -6,7 +6,7 @@ on:
 
 env:
   DOCKER_IMAGE_NAME: zaimramlan/ubuntu-git-ruby-cron
-  DOCKER_IMAGE_TAG: 1.0.0
+  DOCKER_IMAGE_TAG: 1.0.1
   DOCKER_SPECIFIC_IMAGE_TAG: ubuntu_git_ruby_cron
 
 jobs:
